@@ -90,10 +90,15 @@ export default function LoginPage() {
   return (
     <Box
       sx={{
+        margin: 'auto',
         marginTop: 8,
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
+        maxWidth: 500,
+        paddingX: {
+          xs: 2
+        }
       }}
     >
       <Avatar sx={{ m: 1, bgcolor: 'secondary.main' }}>
