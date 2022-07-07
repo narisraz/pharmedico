@@ -6,7 +6,7 @@ export default function ChooseSubscription() {
     <Box
       sx={{
         margin: 'auto',
-        marginTop: 8,
+        paddingTop: 8,
         display: 'grid',
         justifyItems: 'center',
         gap: 4,

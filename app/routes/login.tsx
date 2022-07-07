@@ -91,7 +91,7 @@ export default function LoginPage() {
     <Box
       sx={{
         margin: 'auto',
-        marginTop: 8,
+        paddingTop: 8,
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
